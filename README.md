@@ -13,4 +13,4 @@ This code is programmed to be able to calculate and give estimates on the discou
 - <b>Windows 10</b>
 
 <h2>Link to Program</h2>
-https://github.com/
+https://github.com/BurhanArbab/C-CarSaleCalculatorProgram
