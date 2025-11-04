@@ -10,7 +10,7 @@ This code is programmed to be able to calculate and give estimates on the discou
 
 <h2>Enviornments Used</h2>
 
-- <b>Windows 10</b>
+- <b>Windows 10</b> (21H2)
 
 <h2>Link to Program</h2>
 https://github.com/BurhanArbab/C-CarSaleCalculatorProgram
